@@ -11,7 +11,7 @@ The goal of this project is to evaluate student enrollment, course fees, and dem
 - <a  href="https://github.com/hariharanr8/Student-Course-Analysis?tab=readme-ov-file#Final-Conclusion">Final Conclusion</a>
 
 ## Dataset Used
-- <a href="https://github.com/hariharanr8/Student-Course-Analysis/blob/main/project1(student%20course%20report).pbix">Dashboard</a>
+- <a href="Student Personal Details.xlsx">Dataset(student personal details)</a>
 - <a href="https://github.com/hariharanr8/Student-Course-Analysis/blob/main/project1(student%20course%20report).pbix">Dashboard</a>
 
 ## Process
