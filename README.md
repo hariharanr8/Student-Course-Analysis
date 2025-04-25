@@ -3,15 +3,16 @@ The goal of this project is to evaluate student enrollment, course fees, and dem
        Identify trends in course popularity and seasonal enrollment patterns.
        Understand the age distribution of students across courses.
        Provide actionable insights for improving course offerings and marketing strategies.
+       
 ## Contents
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Data-Column">Data Column</a>
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Process">Process</a>
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Usage">Usage</a>
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Features">Features</a>
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Recommendations">Recommendations</a>
-- <a  href="https://github.com/hariharanr8/Customer_call_report/blob/main/README.md#Final-Conclusion">Final Conclusion</a>
+- <a  href="https://github.com/hariharanr8/Student-Course-Analysis?tab=readme-ov-file#process">Process</a>
+- <a  href="https://github.com/hariharanr8/Student-Course-Analysis?tab=readme-ov-file#Features">Features</a>
+- <a  href="https://github.com/hariharanr8/Student-Course-Analysis?tab=readme-ov-file#Recommendations">Recommendations</a>
+- <a  href="https://github.com/hariharanr8/Student-Course-Analysis?tab=readme-ov-file#Final-Conclusion">Final Conclusion</a>
+
 ## Dataset Used
 - <a href="https://github.com/hariharanr8/Student-Course-Analysis/blob/main/project1(student%20course%20report).pbix">Dashboard</a>
+
 ## Process
 ### Step 1: Data Acquisition
 Gather comprehensive data from institutional records and online systems, ensuring inclusion of key attributes such as:
@@ -51,6 +52,7 @@ Prepare actionable reports with summarized outcomes:
        Highlight successful courses contributing the highest revenue (e.g., Davinci Resolve and Adobe After Effects).
        Demonstrate demographic insights for targeted marketing (20–29 age group dominance).
        Monitor completion rates with certificate issuance reaching 65.29%.
+       
 ## Features
 The dashboard highlights the following:
 Key Metrics: Total fees collected (₹6,878K), total students (772), certificates issued (504).
