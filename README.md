@@ -14,6 +14,8 @@ The goal of this project is to evaluate student enrollment, course fees, and dem
 - <a href="Student Personal Details.xlsx">Dataset(student personal details)</a>
 - <a href="https://github.com/hariharanr8/Student-Course-Analysis/blob/main/project1(student%20course%20report).pbix">Dashboard</a>
 
+these are the textfile(SD2021-SD2022-SD2023)contains comprehensive student course details, including unique IDs, names, contact information, courses enrolled, enrollment dates, and fees. This data will be imported into Power BI, enabling effective data manipulation and visualization. Using this, dashboards can be created to analyze metrics such as course popularity, enrollment trends, and total revenue. Power BI's features like slicers, charts, and tables can help present these insights in an interactive format for better decision-making."Files are <a href="Student Personal Details.xlsx">2021</a> , <a href="Student Personal Details.xlsx">2022</a> , <a href="Student Personal Details.xlsx">2023</a> 
+
 ## Process
 ### Step 1: Data Acquisition
 Gather comprehensive data from institutional records and online systems, ensuring inclusion of key attributes such as:
