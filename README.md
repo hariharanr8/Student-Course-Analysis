@@ -1,8 +1,8 @@
 # Project Objective
-The goal of this project is to evaluate student enrollment, course fees, and demographic patterns. The analysis aims to:
-       Identify trends in course popularity and seasonal enrollment patterns.
-       Understand the age distribution of students across courses.
-       Provide actionable insights for improving course offerings and marketing strategies.
+The goal of this project is to evaluate student enrollment, course fees, and demographic patterns. The analysis aims to
+       -Identify trends in course popularity and seasonal enrollment patterns.
+       -Understand the age distribution of students across courses.
+       -Provide actionable insights for improving course offerings and marketing strategies.
        
 ## Contents
 - <a  href="https://github.com/hariharanr8/Student-Course-Analysis?tab=readme-ov-file#process">Process</a>
