@@ -12,6 +12,7 @@ The goal of this project is to evaluate student enrollment, course fees, and dem
 
 ## Dataset Used
 - <a href="https://github.com/hariharanr8/Student-Course-Analysis/blob/main/project1(student%20course%20report).pbix">Dashboard</a>
+- <a href="https://github.com/hariharanr8/Student-Course-Analysis/blob/main/project1(student%20course%20report).pbix">Dashboard</a>
 
 ## Process
 ### Step 1: Data Acquisition
